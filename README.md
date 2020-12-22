@@ -2,7 +2,7 @@
 
 -aUxx+bUx+cU=F(x)
 
-solved using central difference method and the rate of convergence 
-verified 
+solved using central difference method and exponential scheme and the rate of convergence 
+verified.
 
 
