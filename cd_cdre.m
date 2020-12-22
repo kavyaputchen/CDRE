@@ -53,7 +53,7 @@ plot(x,sol,'-o','LineWidth',1,'MarkerSize',8)
 plot(x,g,'LineWidth',2)
 xlabel('x')
 ylabel('y')
-legend({'Exponential','Exact'})
+legend({'Numerical solution','Exact'})
 grid on
 
 % To verify convergence
